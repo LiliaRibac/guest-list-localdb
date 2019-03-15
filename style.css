@@ -12,13 +12,11 @@ height: 100vh;
      border-radius: 4px;
  }
  h1{
-     padding-left: 180px;
+     padding-left: 200px;
      padding-top:220px;
  }
  
- h2 {
-     margin-top:-70px !important;
- } 
+ 
 
 
  .bg-info{
