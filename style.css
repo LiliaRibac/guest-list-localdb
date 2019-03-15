@@ -1,0 +1,33 @@
+body{
+background-image: url("Travel-Agencies.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 100vw;
+height: 100vh;
+
+}
+
+
+ .border{
+     border-radius: 4px;
+ }
+ h1{
+     padding-left: 180px;
+     padding-top:220px;
+ }
+ 
+ h2 {
+     margin-top:-70px !important;
+ } 
+
+
+ .bg-info{
+     width: 400px;
+     text-align: center;
+     margin: 0 170px;
+     background-color: blue;
+ }
+ .refresh{
+margin-top: -50px
+ }
+ 
